@@ -1,1 +1,2 @@
 # AMMs_the_push_and_solve_algorithm_for_Uniswap_v3_clones
+The presentation aim was to give an introduction to the blockchain ecosystem, DeFi and in particular automated market makers. I then foucsed on the analysis of the paper ['On-chain optimal aggregation of Uniswap v3 clones'](https://hal.science/hal-04800479/document), 2024, Vincent Danos, Leo Murao Watson, Hamza El Khalloufi, Santiago Valencia <hal-04800479v2>
